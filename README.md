@@ -1,2 +1,32 @@
-# Training-and-management
-Files and links to help members navigate the Zoo's Github
+# Welcome!
+Hello! And welcome to the Assinboine Park Zoo's Github page. This repository contains the information and links neccesary to get new members started with Github and to familiarize members/contributors with the rules and etiqutte of the oganization's repositories.
+
+## Getting Started
+
+### Code of conduct
+We ask all members/contributors to follow the following code of conduct:
+* All communication should be appropriate for a professional and diverse audience.
+* Sexual language and imagery is not appropriate at any time.
+* Harrasment of any kind is not tolerated, including but not limited to; offensive comments related to gender, sexual orientation, physical appearance, body size, race, religion, etc.
+* Comments and revisions to others' contributions is to be constructive and curteous.
+* Ask questions! Coding is difficult and frustrating, but also rewarding. Everyone is at different stages of their coding experience but all of us are always learning. If you are stuck, remember you have a team who is always willing help!
+
+### Training
+* Learn the basic [theory of Git workflows](https://www.youtube.com/watch?v=KjLycV1IWqc&t=1s&ab_channel=economicurtis)
+* Learn the [theory of pull requests](https://www.youtube.com/watch?v=For9VtrQx58&ab_channel=Codecademy)
+* Initialize and learn the mechanics of Github and Rstudio by following along with this [tutorial](https://inbo.github.io/git-course/course_rstudio.html#35_Step_by_step_workflow)
+
+For an in depth look at Git, Github, and RStudio, *[Happy Git With R](https://happygitwithr.com/)* introduces more complex workflows and is a good resource for the most common issues encountered.
+
+### Repository Rules
+* Never upload data to a repository without explicit consent from Dr. Petersen.
+  * Ask the repository manager if you require a raw data file or the file path.  
+* Do not alter raw data. If alteration to the raw data file is necessary, make a copy of the raw data and note all changes made at the beginning of the coding script.
+* Commit often using helpful and thoughtful commit messages.
+* Unless you are the manager of the repository or have premission from the repository manager, a [branching and pull request workflow](https://inbo.github.io/git-course/workflow_rstudio.html) should be used.
+* Do not leave branches unmerged for long periods of time.
+* Use sensible file names with no funky ch@r@ctÉr$.
+* Short and sensible descriptions are required for all files and folders
+
+### Coding Etiqutte
+Please read through and follow the Coding Etiquette Guidelines
