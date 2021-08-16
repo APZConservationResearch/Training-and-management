@@ -1,5 +1,5 @@
 # Welcome!
-Hello! And welcome to the Assinboine Park Zoo's Github page. This repository contains the information and links neccesary to get new members started with Github and to familiarize members/contributors with the rules and etiqutte of the oganization's repositories.
+Hello! And welcome to Assinboine Park Zoo's Conservation and Research Github page. This repository contains the information and links neccesary to get new members started with Github and to familiarize members/contributors with the rules and etiquette of the oganization's repositories.
 
 ## Getting Started
 
@@ -28,5 +28,5 @@ For an in depth look at Git, Github, and RStudio, *[Happy Git With R](https://ha
 * Use sensible file names with no funky ch@r@ctÉr$.
 * Short and sensible descriptions are required for all files and folders
 
-### Coding Etiqutte
+### Coding Etiquette
 Please read through and follow the Coding Etiquette Guidelines
