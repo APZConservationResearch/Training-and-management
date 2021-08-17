@@ -20,7 +20,7 @@ For an in depth look at Git, Github, and RStudio, *[Happy Git With R](https://ha
 
 ### Repository Rules
 * Never upload data to a repository without explicit consent from Dr. Petersen.
-  * Ask the repository manager if you require a raw data file or the file path.  
+  * Ask the repository manager if you require a raw data file or the data file path.  
 * Do not alter raw data. If alteration to the raw data file is necessary, make a copy of the raw data and note all changes made at the beginning of the coding script.
 * Commit often using helpful and thoughtful commit messages.
 * Unless you are the manager of the repository or have premission from the repository manager, a [branching and pull request workflow](https://inbo.github.io/git-course/workflow_rstudio.html) should be used.
