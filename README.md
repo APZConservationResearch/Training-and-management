@@ -15,7 +15,7 @@ We ask all members/contributors to follow the following code of conduct:
 * Learn the basic [theory of Git workflows](https://www.youtube.com/watch?v=KjLycV1IWqc&t=1s&ab_channel=economicurtis).
 * Learn the [theory of pull requests](https://www.youtube.com/watch?v=For9VtrQx58&ab_channel=Codecademy).
 * Initialize and learn the mechanics of Github and RStudio by following along with this [tutorial](https://inbo.github.io/git-course/course_rstudio.html#35_Step_by_step_workflow).
-* Completely new to R? [Here] is a list of useful links and training to get started using R
+* Completely new to R? [Here](https://github.com/APZConservationResearch/Training-and-management/blob/main/R-training-links.md) is a list of useful links and training to get started using R
 
 For an in depth look at Git, Github, and RStudio, *[Happy Git With R](https://happygitwithr.com/)* introduces more complex workflows and is a good resource for the most common issues encountered.
 
