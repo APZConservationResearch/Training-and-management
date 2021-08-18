@@ -13,6 +13,6 @@ The Tidyverse is a collection of packages used to manipulate, analyze, and visua
 
 ## Community help
 Stuck on an issue? Try asking the community!
-* [Stack overflow](https://stackoverflow.com/) is the place you will most likely find the answer you are look for. If not, ask your own question! 
+* [Stack overflow](https://stackoverflow.com/) is the place you will most likely find the answer you are looking for. If not, ask your own question! 
 * [Reddit R help](https://www.reddit.com/r/Rlanguage/) is good but questions are less likely to be answered.
 * Poorly phrased and formatted questions are not likely answered so it is important to learn [how to ask proper questions](https://stackoverflow.com/help/how-to-ask)
