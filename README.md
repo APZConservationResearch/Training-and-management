@@ -1,5 +1,5 @@
 # Welcome!
-Hello! And welcome to Assinboine Park Zoo's Conservation and Research Github page. This repository contains the information and links neccesary to get new contributors started with Github and to familiarize contributors with the rules and etiquette of the oganization's repositories.
+Hello! And welcome to Assinboine Park Zoo's Conservation and Research Github page. This repository contains the information and links neccesary to get new members/contributors started with Github and to familiarize members/contributors with the rules and etiquette of the oganization's repositories.
 
 ## Getting Started
 
