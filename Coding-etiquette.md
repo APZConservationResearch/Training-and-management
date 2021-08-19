@@ -78,7 +78,7 @@ x * y
 `x <- 5  # This is a proper inline comment`
 
 ### 3. Line length and indent conventions
-* Limit lines to 80 characters (in RStudio see `Tools/Global Options/Code/Display/Show Margin/80 characters`)
+* Limit line length to 80 characters (in RStudio see `Tools/Global Options/Code/Display/Show Margin/80 characters`)
 * Opening curly brackets should not go on a new line but should end a line. Closing curly brackets should go on their own line (see `my.function` example above).
 * Start a new line after using a pipe operator
 ```{r}
