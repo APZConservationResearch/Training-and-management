@@ -19,7 +19,7 @@ Members and contributors of the APZ Conservation and Research Github will uphold
 * Learn the basic [theory of Git workflows](https://www.youtube.com/watch?v=KjLycV1IWqc&t=1s&ab_channel=economicurtis).
 * Learn the [theory of pull requests](https://www.youtube.com/watch?v=For9VtrQx58&ab_channel=Codecademy).
 * Initialize and learn the mechanics of Github and RStudio by following along with this [tutorial](https://inbo.github.io/git-course/course_rstudio.html#35_Step_by_step_workflow).
-* Completely new to R? [Here](https://github.com/APZConservationResearch/Training-and-management/blob/main/R-training-links.md) is a list of useful links and training to get started using R
+* Completely new to R? [Here](https://github.com/APZConservationResearch/Training-and-management/blob/main/R-training-links.md) is a list of useful links and training to get started using R.
 
 For an in depth look at Git, Github, and RStudio, *[Happy Git With R](https://happygitwithr.com/)* introduces more complex workflows and is a good resource for the most common issues encountered.
 
@@ -30,8 +30,7 @@ For an in depth look at Git, Github, and RStudio, *[Happy Git With R](https://ha
 * Commit often using helpful and thoughtful commit messages.
 * Unless you are the manager of the repository or have premission from the repository manager, a [branching and pull request workflow](https://inbo.github.io/git-course/workflow_rstudio.html) should be used.
 * Do not leave branches unmerged for long periods of time.
-* Use sensible file names with no funky ch@r@ctÉr$.
-* Short and informative descriptions are required for all files and folders.
+* Use sensible file and folder names with no funky ch@r@ctÉr$.
 
 ### Coding Etiquette
 Please read through and follow the [Coding Etiquette Guidelines](https://github.com/APZConservationResearch/Training-and-management/blob/main/Coding-etiquette.md).
