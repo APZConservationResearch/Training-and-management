@@ -36,7 +36,7 @@ Each script should always include the following chunks:
 2. Libraries needed
 
 ### Annotations
-Inline annotations are essential to readable code. These annotations should focus on *why* a piece of code exists rather than *what* a piece of code does
+Inline annotations are essential to readable code. These annotations should focus on the *why* rather than the *what*.
 
 ## Tidying Data <a name="section3"></a>
 
