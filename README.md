@@ -1,5 +1,5 @@
 # Welcome!
-Hello! And welcome to Assinboine Park Zoo's Conservation and Research Github. This repository contains the information and links neccesary to get new members/contributors started with Github and to familiarize members/contributors with the rules and etiquette of the oganization's repositories.
+Hello! And welcome to Assinboine Park Zoo's Conservation and Research Github. This repository contains the information and links neccesary to get new members/contributors started with Github and become familiarized with the rules and etiquette of the oganization's repositories.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ grow a workforce that reflects the wonderfully diverse community we serve; and n
 
 Members and contributors of the APZ Conservation and Research Github will uphold these commitments of APC and will abide by the following:
 * All communication should be appropriate for a professional and diverse audience.
-* Harrasment of any kind is not tolerated, including but not limited to; offensive comments related to gender, sexual orientation, physical appearance, body size, race, and religion
+* Harrasment of any kind is not tolerated, including but not limited to; offensive comments related to gender, sexual orientation, physical appearance, body size, race, and religion.
 * Sexual language and imagery is not appropriate at any time.
 * Comments and revisions to others' contributions is to be constructive and curteous.
 * Ask questions! Coding is difficult and frustrating, but also rewarding. Everyone is at different stages of their coding experience but all of us are always learning. If you are stuck, remember you have a team who is always willing help!
