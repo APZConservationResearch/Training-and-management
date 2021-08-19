@@ -9,8 +9,9 @@ Assiniboine Park Conservancy is committed to "cultivate a culture of inclusivity
 grow a workforce that reflects the wonderfully diverse community we serve; and nurture a sense of community within our Park that makes all feel welcome, accepted and comfortable to be themselves.
 
 Members and contributors of the APZ Conservation and Research Github page will uphold these commitments of APC and will abide by the following:
-* Sexual language and imagery is not appropriate at any time.
+* All communication should be appropriate for a professional and diverse audience.
 * Harrasment of any kind is not tolerated, including but not limited to; offensive comments related to gender, sexual orientation, physical appearance, body size, race, and religion
+* Sexual language and imagery is not appropriate at any time.
 * Comments and revisions to others' contributions is to be constructive and curteous.
 * Ask questions! Coding is difficult and frustrating, but also rewarding. Everyone is at different stages of their coding experience but all of us are always learning. If you are stuck, remember you have a team who is always willing help!
 
