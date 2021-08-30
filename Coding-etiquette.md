@@ -14,7 +14,6 @@ Most projects will consist of four primary components:
 
    1.  Raw data (to be stored on P: drive or on local device)
    2.  Script for wrangling data
-   3.  Script for functions
    4.  Script for data analysis and visualization
     
 By seperating scripts into various components, users looking to repeat your methods can ignore wrangling steps that may be unique to your raw data. Similarily, keeping the functions in a seperate script makes it easier to access functions which may be helpful for future projects.   
@@ -34,6 +33,7 @@ Each script should always include the following chunks:
    1. Desription of script
    2. Author information   
 2. Libraries needed
+3. Defining functions (if there are many functions consider a seperate script)
 
 ### Annotations
 Inline annotations are essential to readable code. These annotations should focus on the *why* rather than the *what*.
