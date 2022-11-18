@@ -6,7 +6,7 @@ Hello! And welcome to Assinboine Park Zoo's Conservation and Research Github. Th
 ### Code of conduct
 
 Assiniboine Park Conservancy is committed to "cultivate a culture of inclusivity that embraces diversity in all its forms including race, ethnicity, gender and sexual orientation;
-grow a workforce that reflects the wonderfully diverse community we serve; and nurture a sense of community within our Park that makes all feel welcome, accepted and comfortable to be themselves.
+grow a workforce that reflects the wonderfully diverse community we serve; and nurture a sense of community within our Park that makes all feel welcome, accepted and comfortable to be themselves."
 
 Members and contributors of the APZ Conservation and Research Github will uphold these commitments of APC and will abide by the following:
 * All communication should be appropriate for a professional and diverse audience.
